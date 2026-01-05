@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 12;
+$doc-font-size              : 10;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -29,7 +29,7 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 /*$global-font-family         : $sans-serif;*/
-$global-font-family         : $garamond;
+$global-font-family         : $times;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
@@ -115,16 +115,15 @@ $small                      : 600px !default;
 $medium                     : 768px !default;
 $medium-wide                : 900px !default;
 $large                      : 925px !default;
-/*$x-large                    : 1280px !default;*/
-$x-large                    : 1800px !default;
+$x-large                    : 1280px !default;
 
 /*
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow : 0px !default;
-$right-sidebar-width        : 0px !default;
-$right-sidebar-width-wide   : 0px !default;
+$right-sidebar-width-narrow : 0px;
+$right-sidebar-width        : 0px;
+$right-sidebar-width-wide   : 0px;
 
 $susy: (
   columns: 12,

@@ -44,7 +44,7 @@ The interested applicants should apply using Academic Job Online
 
 ## Student Internship ##
 
-+ Amina Safu (M1 intership)
++ Amina Sadu (M1 internship, January -- June 2026)
 + Giovanbattista Favorito (M2 internship, March 3 -- June 27, 2025)
 
 ## Visitors

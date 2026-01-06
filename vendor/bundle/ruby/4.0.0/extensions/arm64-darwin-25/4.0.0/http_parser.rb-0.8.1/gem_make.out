@@ -1,0 +1,23 @@
+current directory: /Users/vanhove/Git/pierrevanhove.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/vanhove/Git/pierrevanhove.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make -j15 DESTDIR\= sitearchdir\=./.gem.20260101-51291-7c67td sitelibdir\=./.gem.20260101-51291-7c67td clean
+
+current directory: /Users/vanhove/Git/pierrevanhove.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make -j15 DESTDIR\= sitearchdir\=./.gem.20260101-51291-7c67td sitelibdir\=./.gem.20260101-51291-7c67td
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+ruby_http_parser.c:373:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
+  373 |     if (nparsed < len)
+      |         ~~~~~~~ ^ ~~~
+1 warning generated.
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/vanhove/Git/pierrevanhove.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make -j15 DESTDIR\= sitearchdir\=./.gem.20260101-51291-7c67td sitelibdir\=./.gem.20260101-51291-7c67td install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20260101-51291-7c67td
+
+current directory: /Users/vanhove/Git/pierrevanhove.github.io/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260101-51291-7c67td sitelibdir\=./.gem.20260101-51291-7c67td clean

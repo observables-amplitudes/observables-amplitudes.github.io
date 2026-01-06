@@ -1,0 +1,18 @@
+current directory: /Users/vanhove/Git/pierrevanhove.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/vanhove/.rbenv/versions/3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/vanhove/Git/pierrevanhove.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250128-47543-18kp41 sitelibdir\=./.gem.20250128-47543-18kp41 clean
+
+current directory: /Users/vanhove/Git/pierrevanhove.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250128-47543-18kp41 sitelibdir\=./.gem.20250128-47543-18kp41
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/vanhove/Git/pierrevanhove.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250128-47543-18kp41 sitelibdir\=./.gem.20250128-47543-18kp41 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250128-47543-18kp41/racc
+
+current directory: /Users/vanhove/Git/pierrevanhove.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250128-47543-18kp41 sitelibdir\=./.gem.20250128-47543-18kp41 clean

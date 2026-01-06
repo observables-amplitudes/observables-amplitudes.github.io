@@ -12,6 +12,7 @@ layout: single
 Publications supported by the grant
 
 + [Energy correlators in four-dimensional gravity](https://arxiv.org/abs/2512.23791) by **Dmitry Chicherin**, **Gregory P. Korchemsky**, Emery Sokatchev, Alexander Zhiboedov
++ [Next-to-next-to-next-to-leading order pion contributions to hadronic vacuum polarisation](https://pos.sissa.it/485/327/) by Laurent Lellouch, Alessandro Lupo, Mattias Sjö, Kálmán Szabo and **Pierre Vanhove**
 + [Fano and Reflexive Polytopes from Feynman Integrals](https://arxiv.org/abs/2512.10518) by Leonardo de La Cruz, Pavel P. Novichkov and **P. Vanhove**
 + [Bootstrapping Six-Gluon QCD Amplitudes](https://arxiv.org/abs/2510.20565) by Sérgio Carrôlo, <b>Dmitry Chicherin</b>, Johannes Henn, Qinglin Yang, Yang Zhang.
 + [Hadronic vacuum polarization to three loops in chiral perturbation theory](https://arxiv.org/abs/2510.12885) by Laurent Lellouch, Alessandro Lupo, Mattias Sjö, Kálmán Szabo, **Pierre Vanhove**

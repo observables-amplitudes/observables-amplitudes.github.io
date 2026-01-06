@@ -9,7 +9,7 @@ layout: single
 
 {% include base_path %}
 
-
+  
 
 A huge surge of experimental data coming from the LHC and the new
 generation of gravitational detectors provides a unique opportunity to

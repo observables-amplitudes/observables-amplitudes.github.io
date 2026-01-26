@@ -33,7 +33,8 @@ The consortium of the project is composed by the permanent researchers
 
 ## Post-doctoral researcher ##
 
-+ Alessandro Testa 2025-2027
++  [Yu Wu](https://inspirehep.net/authors/2806413?ui-citation-summary=true) 2026-2028
++ [Alessandro Testa](https://inspirehep.net/authors/2739743?ui-citation-summary=true) 2025-2027
 
 A two year post-doctoral position is opened at the LAPTh node
 {: .notice--danger}

@@ -12,6 +12,7 @@ layout: single
 Publications supported by the grant
 
 + [Bootstrapping ABJM theory](https://arxiv.org/abs/2602.10196) by Bercel Boldis, **Gregory P. Korchemsky** and **Alessandro Testa**
++ [Wilson loops in ABJM theory reloaded](https://arxiv.org/abs/2512.02119) by Bercel Boldis, **Gregory P. Korchemsky** and **Alessandro Testa**
 + [Energy correlators in four-dimensional gravity](https://arxiv.org/abs/2512.23791) by **Dmitry Chicherin**, **Gregory P. Korchemsky**, Emery Sokatchev and Alexander Zhiboedov
 + [Next-to-next-to-next-to-leading order pion contributions to hadronic vacuum polarisation](https://pos.sissa.it/485/327/) by Laurent Lellouch, Alessandro Lupo, Mattias Sjö, Kálmán Szabo and **Pierre Vanhove**
 + [Fano and Reflexive Polytopes from Feynman Integrals](https://arxiv.org/abs/2512.10518) by Leonardo de La Cruz, Pavel P. Novichkov and **P. Vanhove**

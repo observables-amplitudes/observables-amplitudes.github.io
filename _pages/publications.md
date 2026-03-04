@@ -11,6 +11,7 @@ layout: single
 
 Publications supported by the grant
 
++ [The multiloop sunset to all orders](https://arxiv.org/abs/2603.03183) by **Pierre Vanhove**
 + [Bootstrapping ABJM theory](https://arxiv.org/abs/2602.10196) by Bercel Boldis, **Gregory P. Korchemsky** and **Alessandro Testa**
 + [Wilson loops in ABJM theory reloaded](https://arxiv.org/abs/2512.02119) by Bercel Boldis, **Gregory P. Korchemsky** and **Alessandro Testa**
 + [Energy correlators in four-dimensional gravity](https://arxiv.org/abs/2512.23791) by **Dmitry Chicherin**, **Gregory P. Korchemsky**, Emery Sokatchev and Alexander Zhiboedov

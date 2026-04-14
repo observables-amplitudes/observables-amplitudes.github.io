@@ -25,7 +25,7 @@ Publications supported by the grant
 + [Exact Three-Point Functions in $N=2$ Superconformal Field Theories: Integrability vs. Localization](https://arxiv.org/abs/2503.07295) by Gwenaël Ferrando, Shota Komatsu, Gabriel Lefundes and **Didina Serban**
 + [Correlation functions in four-dimensional superconformal long circular quivers](https://arxiv.org/abs/2501.17223) by **Gregory P. Korchemsky** and  Alessandro Testa
 + [HEFT Numerators from Kinematic Algebra](https://arxiv.org/abs/2501.14523) by Chih-Hao Fu, **Pierre Vanhove** and Yihong Wang
-+ [Picard-Fuchs Equations of Twisted Differential forms associated to Feynman Integrals](https://pierrevanhove.github.io/files/proceeding-pisa-2024-Vanhove.pdf) proceedings of the conference [Regulators V](https://events.dm.unipi.it/event/202/), 3-13 juin 2024 Department of Mathematics, University of Pisa, Italy by **Pierre Vanhove**
++ [Picard-Fuchs Equations of Twisted Differential forms associated to Feynman Integrals](https://arxiv.org/abs/2604.09129) proceedings of the conference [Regulators V](https://events.dm.unipi.it/event/202/), 3-13 juin 2024 Department of Mathematics, University of Pisa, Italy by **Pierre Vanhove**
 + [Exploring superconformal Yang-Mills theories through matrix Bessel kernels](https://arxiv.org/pdf/2412.08732) by Zoltan Bajnok, Bercel Boldis, **Gregory P. Korchemsky**
 + [Positivity properties of five-point two-loop Wilson loops with Lagrangian insertion](https://arxiv.org/pdf/2410.11456) by **Dmitry Chicherin**, Johannes Henn, Jaroslav Trnka, Shun-Qing Zhang
 + [Solving four-dimensional superconformal Yang-Mills theories with Tracy-Widom distribution](https://arxiv.org/abs/2409.17227) by Zoltan Bajnok, Bercel Boldis, **Gregory P. Korchemsky**

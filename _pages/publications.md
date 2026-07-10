@@ -11,6 +11,9 @@ layout: single
 
 Publications supported by the grant
 
++ [Null limit of large-charge correlators in planar $\mathcal N=4$ Super-Yang-Mills theory](https://arxiv.org/abs/2606.24018) by Benjamin Basso, Thiago Fleury, Erkan Kaluç and **Didina Serban**
++ [Strong-coupling results in (non-)conformal $\mathcal N=2$ theories with fundamental flavors](https://arxiv.org/abs/2605.16521) by M. Billo, A. Lerda and **Alessandro Testa**
++ [Classical correlation functions at strong coupling from hexagonalization](https://arxiv.org/abs/2605.03887) by Benjamin Basso, Erkan Kaluç and **Didina Serban**
 + [The elliptic three-loop integrals of hadronic vacuum polarization in chiral perturbation theory](https://arxiv.org/abs/2603.15252) by Laurent Lellouch, Alessandro Lupo, Mattias Sjö and **Pierre Vanhove**
 + [The multiloop sunset to all orders](https://arxiv.org/abs/2603.03183) by **Pierre Vanhove**
 + [Bootstrapping ABJM theory](https://arxiv.org/abs/2602.10196) by Bercel Boldis, **Gregory P. Korchemsky** and **Alessandro Testa**

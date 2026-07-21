@@ -11,12 +11,15 @@ layout: single
 
 Publications supported by the grant
 
++ [Bootstrapping two-loop six-gluon amplitudes in QCD](https://arxiv.org/abs/2606.27801) by Sérgio Carrôlo, **Dmitry Chicherin**, Johannes M. Henn, Qinglin Yang, and Yang Zhang
 + [Null limit of large-charge correlators in planar $\mathcal N=4$ Super-Yang-Mills theory](https://arxiv.org/abs/2606.24018) by Benjamin Basso, Thiago Fleury, Erkan Kaluç and **Didina Serban**
 + [Strong-coupling results in (non-)conformal $\mathcal N=2$ theories with fundamental flavors](https://arxiv.org/abs/2605.16521) by M. Billo, A. Lerda and **Alessandro Testa**
 + [Classical correlation functions at strong coupling from hexagonalization](https://arxiv.org/abs/2605.03887) by Benjamin Basso, Erkan Kaluç and **Didina Serban**
 + [The elliptic three-loop integrals of hadronic vacuum polarization in chiral perturbation theory](https://arxiv.org/abs/2603.15252) by Laurent Lellouch, Alessandro Lupo, Mattias Sjö and **Pierre Vanhove**
 + [The multiloop sunset to all orders](https://arxiv.org/abs/2603.03183) by **Pierre Vanhove**
++ [Four-Jet Rate in Electron-Positron Annihilation at Order $\alpha_s^4$](https://arxiv.org/abs/2602.18185) by Xuan Chen, **Dmitry Chicherin**, Elliot Fox, Nigel Glover, Matteo Marcoli, Vasily Sotnikov, Huiting Sun, Hantian Zhang, and Simone Zoia
 + [Bootstrapping ABJM theory](https://arxiv.org/abs/2602.10196) by Bercel Boldis, **Gregory P. Korchemsky** and **Alessandro Testa**
++ [QCD Scattering Amplitudes and Prescriptive Unitarity](https://arxiv.org/abs/2602.02783) by Sérgio Carrôlo, **Dmitry Chicherin**, Johannes Henn, Qinglin Yang, and Yang Zhang
 + [Wilson loops in ABJM theory reloaded](https://arxiv.org/abs/2512.02119) by Bercel Boldis, **Gregory P. Korchemsky** and **Alessandro Testa**
 + [Energy correlators in four-dimensional gravity](https://arxiv.org/abs/2512.23791) by **Dmitry Chicherin**, **Gregory P. Korchemsky**, Emery Sokatchev and Alexander Zhiboedov
 + [Next-to-next-to-next-to-leading order pion contributions to hadronic vacuum polarisation](https://pos.sissa.it/485/327/) by Laurent Lellouch, Alessandro Lupo, Mattias Sjö, Kálmán Szabo and **Pierre Vanhove**
